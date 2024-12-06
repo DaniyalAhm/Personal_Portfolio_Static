@@ -47,6 +47,15 @@
         "description": "A custom-built virtual assistant integrating advanced NLP and intent recognition models, featuring tools for natural language processing and automation using frameworks like BERT.",
         "url": "https://github.com/DaniyalAhm/VirtualAssistant"
       }
+      
+    },
+    {
+      "Project": {
+        "name": "CRUD Application",
+        "Description": "This CRUD (Create, Read, Update, Delete) application utilizes Docker for containerization, with a React frontend and a Node.js and Flask backend. It integrates Amazon Rekognition for advanced image analysis and recognition, providing a secure, scalable, and dynamic solution for managing data. The Dockerized architecture ensures service isolation and maintainability, with the frontend accessible at http://localhost:3000 and the backend at http://localhost:5000",
+        "url":  "https://github.com/DaniyalAhm/Crud"
+      }
     }
+    
   ]
   
