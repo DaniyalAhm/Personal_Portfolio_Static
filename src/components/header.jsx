@@ -26,7 +26,7 @@ function Header() {
 </p>
 
 
-            <a className='Resume' href="src/components/Daniyal_s_Resume-1.pdf" download={"Resume.pdf"}>Download My Resume</a>
+            <a className='Resume' href="/Daniyal_s_Resume-1.pdf" download={"Resume.pdf"}>Download My Resume</a>
 
 
             <hr className="Line"></hr>
