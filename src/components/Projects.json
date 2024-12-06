@@ -1,0 +1,52 @@
+[
+    {
+      "Project": {
+        "name": "Deck",
+        "description": "Deck is a dynamic news aggregation platform that uses React for a responsive frontend, Flask for efficient backend operations, and APIs like News API and Reddit API to fetch real-time news. It features Google OAuth for secure login, web scraping with BeautifulSoup, and a customizable dashboard for a comprehensive news experience.",
+        "url": "https://github.com/DaniyalAhm/Deck"
+      }
+    },
+    {
+      "Project": {
+        "name": "Scikit-learn in C++",
+        "description": "This project involves implementing machine learning algorithms like Linear Regression, Decision Trees, and Naive Bayes from scratch in C++ to understand their inner workings. It highlights algorithmic details and applies efficient coding practices.",
+        "url": "https://github.com/DaniyalAhm/scikit-learn_in_C-"
+      }
+    },
+    {
+      "Project": {
+        "name": "AI Customer Support",
+        "description": "A Retrieval-Augmented Generation (RAG) system integrating Pinecone for vector search and LLaMA 13B for AI-driven customer support. It features a Flask-based API to handle user queries with precise and contextually relevant responses.",
+        "url": "https://github.com/DaniyalAhm/A.I-Customer-Support"
+      }
+    },
+    {
+      "Project": {
+        "name": "EleutherAI GPT-Neo News Generator",
+        "description": "A news generator leveraging EleutherAI's GPT-Neo 125M model to create contextually accurate and diverse news articles, showcasing the capabilities of modern language models.",
+        "url": "https://github.com/DaniyalAhm/EleutherAI-gpt-neo-125m-News_Generator"
+      }
+    },
+    {
+      "Project": {
+        "name": "Livable Streets Project",
+        "description": "An analysis of the impact of bike infrastructure on displacement and businesses, combining survey data with advanced data visualization techniques in a research-driven approach.",
+        "url": "https://github.com/DaniyalAhm/Ds-livable-streets"
+      }
+    },
+    {
+      "Project": {
+        "name": "AI Flashcards",
+        "description": "An AI-powered flashcard application built with React and Material-UI, offering a user-friendly interface and features like responsive design, customization, and efficient state management.",
+        "url": "https://github.com/DaniyalAhm/AI-Flashcards"
+      }
+    },
+    {
+      "Project": {
+        "name": "Virtual Assistant",
+        "description": "A custom-built virtual assistant integrating advanced NLP and intent recognition models, featuring tools for natural language processing and automation using frameworks like BERT.",
+        "url": "https://github.com/DaniyalAhm/VirtualAssistant"
+      }
+    }
+  ]
+  
