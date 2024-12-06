@@ -1,6 +1,5 @@
 {
   "homepage": "https://DaniyalAhm.github.io/Personal_Portfolio_Static",
-
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +11,7 @@
     "dotenv": "^16.4.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
     "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
