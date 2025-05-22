@@ -56,6 +56,24 @@
         "url":  "https://github.com/DaniyalAhm/Crud"
       }
     }
+    ,
+    {
+      "Project": {
+        "name": "Rust Interpreter",
+        "description": "A Rust implementation of a tiny Rust‐like language: it models a Store with affine ownership and lifetimes, implements big‐step semantics (eval_expr/eval_stmt) respecting moves, borrows, boxes, and drops, enforces static move/borrow/lifetime rules in a Context via type_expr/type_stmt, and includes a hand‐written lexer/parser plus ~76 tests to validate correctness.",
+        "url":  "https://github.com/DaniyalAhm/RustInterpreter"
+      }
+    },
+
+    {
+      "Project": {
+        "name": "Research on Large Language Models",
+        "description": "I evaluate “stacking” fine-tuned, distilled LLMs—using domain-specific specialists and a BERT-based delegator—to mimic a high-parameter teacher model GitHub, but finds that severe catastrophic forgetting drives specialist accuracy to near zero, undermining the ensemble approach ",
+        "url":  "https://github.com/DaniyalAhm/LLMS_research"
+      }
+    }
+
+
     
   ]
   
